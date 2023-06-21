@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     AWS_ACCESS_KEY_ID = 'AKIAX3SKLMPKWHLZTAVF'
-    AWS_SECRET_ACCESS_KEY = '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'
+    AWS_SECRET_ACCESS_KEY = 'uZLbweU1G1y8hHi3O/vgjDHF4juZlxD'
     AWS_DEFAULT_REGION = 'us-east-1'
   }
 
